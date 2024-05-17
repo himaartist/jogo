@@ -1,0 +1,95 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #5e2c57;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+}
+body{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+}
+section{
+    border: #ffd630 2px solid;
+    width: 1500px;
+    height: 600px;
+}
+.c{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 300px;
+    left: 10px;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+
+.p{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 300px;
+    right: 10px;
+}
+h1{
+    font-size: 45px;
+    font-family: monospace;
+    margin-left: 100px;
+    color: #0bb02f;
+}
+.paso{
+    font-size: 20px;
+    height: 200px;
+    margin-left: 100px;
+    color: #69B00B;
+}
+h2{
+    font-size: 45px;
+    height: 200px;
+    margin-left: 950px;
+    position: absolute;
+    top: 135px;
+    color: #b00b0b;
+}
+.lartaguixa{
+    font-size: 20px;
+    height: 200px;
+    margin-left: 1000px;
+    position: absolute;
+    top: 230px;
+    color: #b09f0b;
+}
+.Lartaguixa{
+    font-size: 20px;
+    height: 200px;
+    margin-left: 100px;
+    color: #69B00B;
+
+}
+.bt{
+    width: 100px;
+    height: 100px;
+    background-color: #ffe600;
+    position: absolute;
+    top: 180px;
+    font-size: 80px;
+    text-decoration: none;
+    color: #391180;
+}
+.bta{
+    width: 100px;
+    height: 100px;
+    background-color: #0084ff;
+    position: absolute;
+    bottom: 180px;
+    font-size: 80px;
+    text-decoration: none;
+    color: #ce6300;
+}
